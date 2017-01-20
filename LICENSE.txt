@@ -1,4 +1,4 @@
-MIT License
+MIT Licen
 
 Copyright (c) 2016 Code School
 
